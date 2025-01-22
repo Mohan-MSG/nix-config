@@ -1,0 +1,21 @@
+{
+  imports = [
+    ./bat.nix
+    ./eza.nix
+    ./fzf.nix
+    ./git.nix
+    ./bash.nix
+    ./cava.nix
+    ./btop.nix
+    ./fish.nix
+    ./fastfetch.nix
+    ./nemo.nix
+    ./tmux.nix
+    ./yazi.nix
+    ./kitty.nix
+    ./direnv.nix
+    ./zoxide.nix
+    ./ghostty.nix
+    ./starship.nix
+  ];
+}
