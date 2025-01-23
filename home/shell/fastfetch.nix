@@ -21,6 +21,10 @@
       "modules" = [
         "break"
         {
+          "type" = "custom";
+          "format" = "モハン";
+        }
+        {
           "type" = "os";
           "key" = "OS   ";
           "keyColor" = "31"; # = color1

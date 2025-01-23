@@ -16,7 +16,6 @@
     ./zathura.nix
     ./firefox.nix
     ./obs-studio.nix
-    ./xdg.nix
     ./waypaper.nix
     ./swayosd.nix
   ];

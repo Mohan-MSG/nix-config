@@ -16,7 +16,6 @@ _: {
         "hyprctl setcursor Bibata-Modern-Ice 24 &"
         "swww-daemon &"
         "swayosd-server"
-        "[workspace 2 silent] zen"
       ];
 
       input = {

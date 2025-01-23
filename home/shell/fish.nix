@@ -34,6 +34,7 @@
         cat = "bat";
       };
       shellInit = ''
+        fastfetch
         # shut up welcome message
                 set fish_greeting
 

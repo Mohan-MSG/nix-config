@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Define the wallpaper path where all wallpapers are stored
-wallpaper_path="$HOME/Pictures/Wallpapers"
+wallpaper_path="$Home/hyprnix/Wallpapers"
 
 # Use 'ls' to list all files in the wallpaper directory and pass them to rofi for selection
 wallpaper_name="$(ls "$wallpaper_path" | rofi -dmenu || pkill rofi)"

@@ -5,9 +5,9 @@
   xdg.configFile."waypaper/config.ini".text = ''
     [Settings]
     language = en
-    folder = ~/Pictures/Wallpapers
+    folder = ~/hyprnix/Wallpapers
     monitors = All
-    wallpaper = ~/Pictures/Wallpapers/city.png
+    wallpaper = ~/hyprnix/Wallpapers/watch dogsjpg.jpg
     backend = swww
     fill = fill
     sort = name
